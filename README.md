@@ -123,10 +123,6 @@ flake8 .
 mypy .
 ```
 
-## License
-
-MIT License
-
 ## Contributing
 
 1. Fork the repository
